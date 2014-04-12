@@ -1,4 +1,1 @@
-source 'https://rubygems.org'
-
-gem 'sinatra'
-gem 'sinatra-websocket'
+# Server side component of the Wink App.
